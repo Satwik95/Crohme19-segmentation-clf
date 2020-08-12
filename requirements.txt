@@ -1,0 +1,8 @@
+pandas
+numpy
+joblib
+matplotlib
+beautifulsoup4
+scikit_learn==0.20.0
+opencv-python
+tqdm

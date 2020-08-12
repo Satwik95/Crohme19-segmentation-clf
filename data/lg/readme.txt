@@ -1,0 +1,2 @@
+->lg dir>
+->here all the generated lg files are stored>

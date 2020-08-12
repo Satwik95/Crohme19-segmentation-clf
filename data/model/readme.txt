@@ -1,0 +1,2 @@
+-> model dir
+-> here all the models are saved as pickle object
