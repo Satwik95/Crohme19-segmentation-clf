@@ -1,5 +1,5 @@
 ## CSCI-737 Pattern Recognition - Project 2 
-by:	Satwik Mishra  - sm5036
+by:	Satwik Mishra  - sm5036, 
 	Nikunj Kotecha - nrk1787
 	 
 
