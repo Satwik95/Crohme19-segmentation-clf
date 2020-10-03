@@ -1,11 +1,9 @@
-############################################################################
-CSCI-737 Pattern Recognition - Project 2 
+##CSCI-737 Pattern Recognition - Project 2 
 by:	 Nikunj Kotecha - nrk1787
 	 Satwik Mishra	- sm5036
 
-############################################################################
-Overview:
-############################################################################
+
+##Overview:
 	This project implments segmentation on handwritten maths expressions
 	and then performs classification on each of the segmented symbols.
 	There are multiple python scripts that compute different tasks at
@@ -37,9 +35,7 @@ Overview:
 	2. For classification:	Random Forest
 	The second model for classification is from project 1.
 
-############################################################################
-Running instructions:
-############################################################################
+## Running instructions:
 	- Make sure to have all the dependencies installed before running
 	  the program. The dependencies are mentioned in the requirements.txt
 	  file. To install these into your python environment do:
@@ -56,11 +52,11 @@ Running instructions:
 
 	-------------------------------------------------------------------
 	1. To pass a single inkml file:
-	cmd: make INKML=<path-to-inkml-file>
+	```cmd: make INKML=<path-to-inkml-file>```
 	- obtain .lg file for the inkml file
 
 	2. To pass dir(s) consisting of inkml files:
-	cmd: make INKML=<path-to-dir(1)> <path-to-dir(2)>
+	```cmd: make INKML=<path-to-dir(1)> <path-to-dir(2)>```
 	- obtain .lg files for all inkml file
         
         -------------------------------------------------------------------
@@ -83,16 +79,13 @@ Running instructions:
 	6. To implement project2 classifier for bonus section
 	cmd: make p1_train P1_train=<dir path to project1 data> BONUS=y
 
-############################################################################
-Output:
-############################################################################
+## Output:
 	- The output will be present in the *data/lg* folder.
 
 	- It should contain .lg file(s)
 
-############################################################################
-LgEval & Confusion Hist:
-############################################################################
+
+## LgEval & Confusion Hist:
 	- These results are for the 30% test set
 	- LgEval metric summary file is present in the outputs.zip
 	- Confusion Histogram .html
