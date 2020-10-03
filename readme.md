@@ -1,9 +1,9 @@
-##CSCI-737 Pattern Recognition - Project 2 
+## CSCI-737 Pattern Recognition - Project 2 
 by:	 Nikunj Kotecha - nrk1787
 	 Satwik Mishra	- sm5036
 
 
-##Overview:
+## Overview:
 	This project implments segmentation on handwritten maths expressions
 	and then performs classification on each of the segmented symbols.
 	There are multiple python scripts that compute different tasks at
